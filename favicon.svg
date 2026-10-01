@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title">
+  <title id="title">yup.studio</title>
+  <circle cx="120" cy="120" r="116" fill="#10243b"/>
+  <circle cx="120" cy="120" r="108" fill="none" stroke="#f8f4ec" stroke-width="3" stroke-dasharray="3 8" opacity=".5"/>
+  <path d="M79 154c7-19 23-31 43-31 24 0 40 13 47 36l8 43H64z" fill="#ff5c57" stroke="#f8f4ec" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M82 83c2-29 21-48 46-48 30 0 50 24 46 57-2 14-9 25-19 32l-3-42c-21 5-45 1-60-10l-2 52c-8-8-10-22-8-41z" fill="#f6c95f" stroke="#f8f4ec" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M93 76c5 31 14 50 34 51 19 1 31-19 32-49-22 6-46 3-66-9z" fill="#f8f4ec" stroke="#f8f4ec" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M106 91h2m29 0h2" stroke="#10243b" stroke-width="6" stroke-linecap="round"/>
+  <path d="M116 108c8 6 15 6 22-1" fill="none" stroke="#10243b" stroke-width="4" stroke-linecap="round"/>
+  <path d="M160 150c13-15 20-31 23-48 1-8 12-10 16-3 3 4 1 10-1 16l7-7c7-6 16 3 10 10l-20 25c-5 7-12 13-20 19" fill="#f8f4ec" stroke="#f8f4ec" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M176 151l18-10" stroke="#10243b" stroke-width="4" stroke-linecap="round"/>
+  <path d="M199 82v-13m-7 7h14M56 133l-12 5m17 5-9 9" stroke="#ff5c57" stroke-width="5" stroke-linecap="round"/>
+</svg>
